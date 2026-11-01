@@ -50,16 +50,6 @@ cloud-data-eng/
 - Data orchestration and workflows
 - Monitoring, quality and governance
 
-## Scopul proiectului
-
-Acest repository va funcționa ca un spațiu de lucru pentru a învăța, a aplica și a documenta conceptele din ingineria datelor în cloud, atât în cadrul cursului, cât și prin proiecte practice.
-
-## Note
-
-Repository-ul este în continuă dezvoltare și va fi completat pe măsură ce parcurg materialele și laboratoarele din curs.
-
----
-
 Repository creat pentru materia: Ingineria Datelor în Cloud
 
 Autor: Vlad Păvăluță
